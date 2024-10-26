@@ -15,7 +15,7 @@ module.exports = {
   moduleFileExtensions: ["ts", "tsx", "js", "jsx", "json", "node"],
   coveragePathIgnorePatterns: ["/node_modules/", "/__tests__/"],
   moduleNameMapper: {
-    '@notifications/(.*)': ['<rootDir>/src/$1']
+    "@notifications/(.*)": ["<rootDir>/src/$1"],
   },
   coverageThreshold: {
     global: {
