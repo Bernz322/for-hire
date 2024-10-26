@@ -1,0 +1,6 @@
+/docker-volumes
+.env
+/helper-library
+/microservices/*/node_modules
+/microservices/*/.env
+/microservices/*/package-lock.json
